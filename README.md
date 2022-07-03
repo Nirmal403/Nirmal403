@@ -8,7 +8,7 @@
 -       <br>
     Connect with me on <a href="https://www.linkedin.com/in/nirmal403/">LinkedIn<a> or <a href="https://twitter.com/nirmalortan619">Twitter<a>
 - 😄 Hobbies:
-        <br>
+        </br>
       Sudukko puzzle solving :game_die:
 - ⚡ One line that describes me: 
         <br>
