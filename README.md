@@ -53,7 +53,7 @@
   
 
 <br/>  
-<div style="display:flex">
+<div>
     <p style="width:400px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal403&show_icons=true&locale=en&layout=compact" alt="nirmal403" /></p>
 
     <p style="margin-left:50px;width:400px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal403&show_icons=true&locale=en" alt="nirmal403" /></p>
