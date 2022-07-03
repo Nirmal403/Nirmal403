@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFqxCmzNLsHBmsDJGVnCqRdlnzMwnLwXBksVdmWxPcBdjPGMCHBfKZBdhFsmrVsKDgpWQc">
+<a href=""mailto:nirmalcool414@gmail.com?subject=subject&cc=cc@example.com">
   <img style="width:50px"src=https://www.lifewire.com/thmb/1MPtfB0FrWmUAYzbd2fz9_MJJBw=/1002x668/filters:fill(auto,1)/gmail-icon-5b101d76ba6177003d066279.PNG>
 </a>
  <a href="https://www.linkedin.com/in/nirmal403/" target="_blank">
