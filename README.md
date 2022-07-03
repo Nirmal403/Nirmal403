@@ -9,10 +9,10 @@
 - 🌱 I’m currently learning as Full Stack Web Developer in Masai School.
         
 - <h3> 😄 Hobbies:</h3>
-      Sudukko :game_die:
+   <p>Sudukko :game_die:</p>   
         
 -  <h3>⚡️ One line that describes me: </h3>
-    A hard working person who enjoys coding.😉
+     <p>A hard working person who enjoys coding.😉</p>
 <hr>
 
 ### 🛠 &nbsp;Tech Stack
