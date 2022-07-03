@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning as Full Stack Web Developer in Masai School.
         
-- 😄 Hobbies:
+- 😄 <h2> Hobbies:</h2>
       Sudukko :game_die:
         
 - ⚡️ One line that describes me: 
