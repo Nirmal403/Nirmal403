@@ -5,8 +5,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- I am Nirmal from Tamil Nadu, India. I am skilled in Full Stack Development, MERN, Javascript and its frameworks.
-
 - 🌱 I’m currently learning as Full Stack Web Developer in Masai School.
         
 - 😄 Hobbies:
