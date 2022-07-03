@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning as Full Stack Web Developer in Masai School.
+- <p>🌱 I’m currently learning as Full Stack Web Developer in Masai School.</p>
         
 - <h3> 😄 Hobbies:</h3>
    <p>Sudukko :game_die:</p>   
