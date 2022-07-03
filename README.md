@@ -55,5 +55,5 @@
 <br/>  
 
 
- <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mugilmalathi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nirmal's github stats" /></a> | 
+ <a href="#"><img align="center" src="#" alt="Nirmal's github stats" /></a> | 
  <a href="#"><img align="center" src="#" /></a> 
