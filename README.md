@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
