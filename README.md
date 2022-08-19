@@ -6,10 +6,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- <p>🌱 I’m currently learning as Full Stack Web Developer in Masai School.</p>
-        
-- <h3> 😄 Hobbies:</h3>
-   <p>Sudukko :game_die:</p>   
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [Nirmal-portfolio](https://portfolio-red-ten-20.vercel.app/#)
+
+- 📝 I regularly write articles on [Nirmal-Blogs](https://medium.com/@nirmalcool414)
+
+- 📫 How to reach me **nirmalcool414@gmail.com**
+
+- 📄 Know about my experiences [Nirmal-resume](https://drive.google.com/file/d/1Nu9dpHFbfZ0jj_eEBECVbHGZsGHi6YvN/view?usp=sharing)
         
 -  <h3>⚡️ One line that describes me: </h3>
      <p>A hard working person who enjoys coding.😉</p>
