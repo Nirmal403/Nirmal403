@@ -4,10 +4,7 @@
 <h1 align="center">Hey there👋, I'm Nirmal</h1>
 <h3 align="center">A passionate full stack developer who's always willing to learn and work across technologies and domain💡. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development✨</h3>
 <div >
-<div style="display:flex">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmal403&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal403" /> </p>
-</div>
+
 <div>
 ### 👨🏻‍💻 &nbsp;About Me
 
