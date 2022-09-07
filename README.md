@@ -3,7 +3,7 @@
 <div style="display:flex">
 
 <div>
-### 👨🏻‍💻 &nbsp;About Me
+ 👨🏻‍💻 About Me
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
