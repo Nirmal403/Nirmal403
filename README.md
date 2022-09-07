@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Nirmal</h1>
+<h1 align="center">Hey there👋, I'm Nirmal</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmal403&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal403" /> </p>
