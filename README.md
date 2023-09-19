@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nirmalcool414@gmail.com**
 
-- 📄 Know about my experiences [Nirmal-resume](https://drive.google.com/file/d/12rFR6XPFJc35NK2P6YF2OqNurzj4nW6Q/view?usp=sharing)
+- 📄 Know about my experiences [Nirmal-resume](https://drive.google.com/file/d/1GAdN38tS-FzGq8L6oq8meus4rPRmk3ok/view?usp=drive_link)
         
 -  <h3>⚡️ One line that describes me: </h3>
      <p>A hard working person who enjoys coding.😉</p>
